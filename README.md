@@ -41,17 +41,17 @@ I am an analytical Systems Implementation Engineer with over 7 years of professi
 ## 🗂️ Featured Production Portfolio
 *Below is my personal portfolio loop showcasing deployed, open-source automation assets alongside live learning architecture models.*
 
-### ⚡ [1. AI-Powered Customer Inquiry Router](https://github.com)
+### ⚡ [1.(github.com/naveensharmatech/customer-inquiry-router-zapier)
 An enterprise-grade async data pipeline routing architecture connecting Zapier, Claude API, and HubSpot.
 *   **Core Logic:** Intercepts raw unstructured client inquiries, runs probabilistic intent classification via Claude APIs using defensive system prompts, and enforces strict JSON output schema contracts.
 *   **Reliability Engineering:** Fully documented with 10 production scenario manual UAT test cases, fallback states, loop prevention gates, and JavaScript-based input filtering.
 
-### 🔎 [2. B2B Lead Generator — Automated Contact Extraction (Apify)](https://apify.com)
+### 🔎 [2. B2B Lead Generator — Automated Lead & Contact Extraction (Apify) (https://apify.com](https://apify.com/opility/b2b-leads-scraper-1-5-1k-leads-emails-phones)) 
 A live production Apify Actor designed to discover business contacts by custom categories and regional locations.
 *   **Core Logic:** Built on top of the JavaScript/Node.js **Crawlee** and **Cheerio** libraries to deep-crawl business domains, bypass anti-scraping blocks via proxy rotations, and extract verified stakeholder contact emails (`owner@`, `sales@`) and LinkedIn profiles.
 *   **Data Pipeline:** Automatically dispatches structured payload blocks to downstream execution layers.
 
-### 🛍️ [3. Shopify Store Lead Extraper — Python Micro-SaaS (Apify)](https://apify.com)
+### 🛍️  [3. apify.com/opility/shopify-store-lead-extractor-emails-catalog-size-apps](https://apify.com/opility/shopify-store-lead-extractor-emails-catalog-size-apps)
 A high-speed B2B data extraction engine built in Python and deployed live on the Apify cloud platform.
 *   **Core Logic:** Leverages `HTTPX` and `BeautifulSoup` to discover storefronts by niche, crawl frontend HTML for active contact vectors, and parse product JSON endpoints to calculate catalog sizes.
 *   **App Fingerprinting:** Detects frontend signals for e-commerce applications (Klaviyo, Gorgias, Zendesk, Recharge) to build rich tech-stack insight arrays.
