@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, I'm Naveen Sharma 👋
-### AI Automation Engineer & Revenue Operations Specialist
+### AI Automation Engineer (No Code) & Revenue Operations Specialist
 📍 Be'er Sheva, Israel | 🌍 Remote-Ready | ✉️ contact@naveensharma.net
 
 ---
