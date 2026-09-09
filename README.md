@@ -41,7 +41,7 @@ I am an analytical Systems Implementation Engineer with over 7 years of professi
 ## 🗂️ Featured Production Portfolio
 *Below is my personal portfolio loop showcasing deployed, open-source automation assets alongside live learning architecture models.*
 
-### ⚡ [1.(github.com/naveensharmatech/customer-inquiry-router-zapier)
+### ⚡ [1. github.com/naveensharmatech/customer-inquiry-router-zapier)](https://github.com/naveensharmatech/customer-inquiry-router-zapier/blob/main/README.md)
 An enterprise-grade async data pipeline routing architecture connecting Zapier, Claude API, and HubSpot.
 *   **Core Logic:** Intercepts raw unstructured client inquiries, runs probabilistic intent classification via Claude APIs using defensive system prompts, and enforces strict JSON output schema contracts.
 *   **Reliability Engineering:** Fully documented with 10 production scenario manual UAT test cases, fallback states, loop prevention gates, and JavaScript-based input filtering.
