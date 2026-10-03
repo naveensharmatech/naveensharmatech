@@ -1,86 +1,83 @@
-## Hi there 👋
-
-<!--
-**naveensharmatech/naveensharmatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi, I'm Naveen Sharma 👋
-### AI Automation Engineer (No Code) & Revenue Operations Specialist
-📍 Be'er Sheva, Israel | 🌍 Remote-Ready | ✉️ contact@naveensharma.net
 
----
+AI Automation Engineer | SaaS Implementation Specialist | QA/UAT & Workflow Validation
 
-## 🚀 Professional Profile
-I am an analytical Systems Implementation Engineer with over 7 years of professional experience across technical operations, SaaS platform configuration, and data onboarding pipelines. My focus is bridging the gap between probabilistic AI engines and deterministic enterprise data ecosystems.
+Be'er Sheva, Israel • Remote-Ready • contact@naveensharma.net
 
-*   **SaaS Infrastructure:** Experienced administering multi-tenant platforms with Super-Admin access, configuring dynamic dependent logic, and validating cross-platform integrations.
-*   **Low-Code Architecture:** Specialized in building high-reliability, fault-tolerant automations across **Zapier, Make.com, and n8n**.
-*   **AI Integration Engineering:** Expert at configuring structured JSON schema outputs from OpenAI and Anthropic Claude APIs to feed compliant data straight into enterprise CRMs like **HubSpot**.
+## About
+I help businesses turn operational friction into reliable, measurable automation.
 
----
+My background combines:
+- SaaS implementation and workflow configuration
+- QA/UAT and functional validation
+- API/JSON data mapping and troubleshooting
+- no-code/low-code automation using Zapier, Make.com, and n8n
+- AI-assisted workflow design and process automation
 
-## 🛠️ Technical Stack Matrix
-*   **Automation Engines:** Zapier (Certified) | Make.com (Training) | n8n (Training)
-*   **Web Scraping & Data Extraction:** Apify SDK | Crawlee | Cheerio | BeautifulSoup
-*   **Core Systems & CRMs:** HubSpot CRM (RevOps) | Jira Service Management (AI Certified) | Basecamp
-*   **AI Frameworks:** OpenAI API Architecture | Claude Code & API Integration | System Prompt Design
-*   **Data & QA Validation:** REST API Payload Testing (Postman) | JSON Schema Enforcement | UAT Validation Cycles
+I work across the full lifecycle: understand the process, design the workflow, configure the systems, validate edge cases, and monitor outcomes.
 
----
+## Core strengths
+- AI & workflow automation
+- SaaS implementation and configuration
+- CRM and business process automation
+- API / JSON mapping and troubleshooting
+- QA/UAT and process validation
+- Documentation and operational handoff
 
-## 🗂️ Featured Production Portfolio
-*Below is my personal portfolio loop showcasing deployed, open-source automation assets alongside live learning architecture models.*
-### ✨ [1. (Portfolio)](https://github.com/naveensharmatech/portfolio/blob/main/README.md)
+## Current focus
+- AI workflow automation for business operations
+- no-code / low-code process design
+- SaaS implementation and onboarding support
+- QA/UAT for automation and implementation workflows
+- B2B service delivery through Opility
 
-### ⚡ [2. github.com/naveensharmatech/customer-inquiry-router-zapier)](https://github.com/naveensharmatech/customer-inquiry-router-zapier/blob/main/README.md)
-An enterprise-grade async data pipeline routing architecture connecting Zapier, Claude API, and HubSpot.
-*   **Core Logic:** Intercepts raw unstructured client inquiries, runs probabilistic intent classification via Claude APIs using defensive system prompts, and enforces strict JSON output schema contracts.
-*   **Reliability Engineering:** Fully documented with 10 production scenario manual UAT test cases, fallback states, loop prevention gates, and JavaScript-based input filtering.
+## Featured work
+### 1. Portfolio
+- Website: https://naveensharma.net
+- GitHub: https://github.com/naveensharmatech/portfolio
 
-### 🔎 [3. B2B Lead Generator — Automated Lead & Contact Extraction (Apify) (https://apify.com](https://apify.com/opility/b2b-leads-scraper-1-5-1k-leads-emails-phones)) 
-A live production Apify Actor designed to discover business contacts by custom categories and regional locations.
-*   **Core Logic:** Built on top of the JavaScript/Node.js **Crawlee** and **Cheerio** libraries to deep-crawl business domains, bypass anti-scraping blocks via proxy rotations, and extract verified stakeholder contact emails (`owner@`, `sales@`) and LinkedIn profiles.
-*   **Data Pipeline:** Automatically dispatches structured payload blocks to downstream execution layers.
+### 2. Customer Inquiry Router
+- GitHub: https://github.com/naveensharmatech/customer-inquiry-router-zapier
+- Focus: AI-assisted inquiry triage, conditional routing, CRM automation
 
-### 🛍️  [4. apify.com/opility/shopify-store-lead-extractor-emails-catalog-size-apps](https://apify.com/opility/shopify-store-lead-extractor-emails-catalog-size-apps)
-A high-speed B2B data extraction engine built in Python and deployed live on the Apify cloud platform.
-*   **Core Logic:** Leverages `HTTPX` and `BeautifulSoup` to discover storefronts by niche, crawl frontend HTML for active contact vectors, and parse product JSON endpoints to calculate catalog sizes.
-*   **App Fingerprinting:** Detects frontend signals for e-commerce applications (Klaviyo, Gorgias, Zendesk, Recharge) to build rich tech-stack insight arrays.
+### 3. B2B Lead Generator
+- GitHub: https://github.com/naveensharmatech/b2b-lead-generator
+- Focus: automated lead discovery and data extraction
 
-### 🌐 [5. Responsive Production Portfolio — naveensharma.net](https://naveensharma.net)
-My central engineering landing hub used to package and demonstrate my operational discipline.
-*   **Core Logic:** Built with **React**, **Vite**, and **Tailwind CSS** to create a highly responsive, modern front-end environment.
-*   **Infrastructure:** Hosted and continuously deployed through robust, edge-optimized **Cloudflare Pages** pipelines.
+### 4. Shopify Store Lead Extractor
+- GitHub: https://github.com/naveensharmatech/shopify-store-lead-extractor
+- Focus: Shopify store intelligence and lead extraction
 
----
+## Experience highlights
+- SaaS implementation specialist in healthcare workflows
+- Dynamic form and workflow configuration
+- Technical troubleshooting and user support
+- QA/UAT validation for production processes
+- Cross-functional process improvement for operational teams
 
-## 🏗️ Active Sandbox & Learning Demos
-*The projects below represent my active upskilling roadmap. These conceptual architecture frameworks demonstrate my ongoing baseline training in enterprise-scale tools.*
+## Skills
+### Automation & AI
+Zapier • Make.com • n8n • AI Workflow Design • Claude / LLM Integrations • Process Automation
 
-### 🌀 [6. Make.com Iterative Array & Data Transformer](https://github.com) `[UNDER CONSTRUCTION / LEARNING DEMO]`
-A conceptual multi-variable data transformation blueprint map designed to process batch records.
-*   **Target Scope:** Building baseline logic for custom text parsers, regex tokens to isolate tracking domains, and basic Iterator/Aggregator arrays to manage structural data payloads.
+### SaaS & Integration
+HubSpot • SaaS Configuration • API Mapping • JSON Data • Workflow Logic • Implementation Support
 
-### 🔀 [7. n8n Secure Database & Webhook Gateway](https://github.com) `[UNDER CONSTRUCTION / LEARNING DEMO]`
-A baseline node-based middleware sandbox layer acting as a conceptual gateway for formatting payloads.
-*   **Target Scope:** Mapping basic webhook listeners, utilizing JavaScript Code Nodes to format timestamps, and studying database configuration controls.
+### QA & Validation
+UAT • Functional Testing • Regression Testing • Data Validation • Workflow QA
 
-### 🎯 [8. HubSpot CRM Revenue Operations Workflow](https://github.com) `[UNDER CONSTRUCTION / LEARNING DEMO]`
-An introductory customer relationship management automation blueprint to study deal progression and data tiering.
-*   **Target Scope:** Configuring basic internal pipeline conditional branches, automated deal card generation rules, and task assignment logic.
+## Connect
+- LinkedIn: https://linkedin.com/in/naveensharmatech
+- Portfolio: https://naveensharma.net
+- GitHub: https://github.com/naveensharmatech
+- Email: contact@naveensharma.net
+- Opility: https://opility.com
 
----
+## Open to
+- AI automation engineer roles
+- workflow automation and no-code / low-code projects
+- SaaS implementation and onboarding roles
+- QA/UAT and implementation testing work
+- remote, hybrid, or contract engagements
 
-## 📬 Connect With Me
-*   **Portfolio:** [naveen-sharma.net](https://naveensharma.net)
-*   **LinkedIn:** [linkedin.com/in/naveensharmatech](https://linkedin.com)
+## Note
+This profile is intentionally focused on real, verified work and transparent project positioning. I keep active projects, portfolio work, and implementation assets clearly separated from experimental or learning repos.
