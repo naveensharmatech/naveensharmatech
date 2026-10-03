@@ -1,83 +1,46 @@
-# Hi, I'm Naveen Sharma 👋
+# 👨‍💻 Naveen Sharma
 
-AI Automation Engineer | SaaS Implementation Specialist | QA/UAT & Workflow Validation
+<div align="center">
 
-Be'er Sheva, Israel • Remote-Ready • contact@naveensharma.net
+[![Portfolio](https://img.shields.io/badge/Portfolio-naveensharma.net-blue?style=for-the-badge)](https://naveensharma.net)
+[![GitHub](https://img.shields.io/badge/GitHub-naveensharmatech-181717?style=for-the-badge&logo=github)](https://github.com/naveensharmatech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-naveensharmatech-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/naveensharmatech)
 
-## About
-I help businesses turn operational friction into reliable, measurable automation.
+**AI Automation Engineer | SaaS Specialist | Workflow Expert**
 
-My background combines:
-- SaaS implementation and workflow configuration
-- QA/UAT and functional validation
-- API/JSON data mapping and troubleshooting
-- no-code/low-code automation using Zapier, Make.com, and n8n
-- AI-assisted workflow design and process automation
+</div>
 
-I work across the full lifecycle: understand the process, design the workflow, configure the systems, validate edge cases, and monitor outcomes.
+---
 
-## Core strengths
-- AI & workflow automation
-- SaaS implementation and configuration
-- CRM and business process automation
-- API / JSON mapping and troubleshooting
-- QA/UAT and process validation
-- Documentation and operational handoff
+## 🚀 Who I Am
 
-## Current focus
-- AI workflow automation for business operations
-- no-code / low-code process design
-- SaaS implementation and onboarding support
-- QA/UAT for automation and implementation workflows
-- B2B service delivery through Opility
+🤖 **AI Automation Specialist** with 7+ years building enterprise workflows
 
-## Featured work
-### 1. Portfolio
-- Website: https://naveensharma.net
-- GitHub: https://github.com/naveensharmatech/portfolio
+- 500+ production workflows deployed
+- 25+ healthcare agencies supported
+- 99.5%+ system uptime maintained
+- Expert in Zapier, Make.com, n8n, Apify
 
-### 2. Customer Inquiry Router
-- GitHub: https://github.com/naveensharmatech/customer-inquiry-router-zapier
-- Focus: AI-assisted inquiry triage, conditional routing, CRM automation
+---
 
-### 3. B2B Lead Generator
-- GitHub: https://github.com/naveensharmatech/b2b-lead-generator
-- Focus: automated lead discovery and data extraction
+## 💼 Services
 
-### 4. Shopify Store Lead Extractor
-- GitHub: https://github.com/naveensharmatech/shopify-store-lead-extractor
-- Focus: Shopify store intelligence and lead extraction
+✅ **Workflow Automation** — Zapier, Make.com, n8n  
+✅ **SaaS Implementation** — Configuration, testing, training  
+✅ **Web Data Extraction** — Apify, Python, JavaScript  
+✅ **HubSpot CRM** — Setup, field mapping, automation  
+✅ **QA & Testing** — UAT, test planning, execution  
+✅ **AI Integration** — Claude API, agent architecture  
 
-## Experience highlights
-- SaaS implementation specialist in healthcare workflows
-- Dynamic form and workflow configuration
-- Technical troubleshooting and user support
-- QA/UAT validation for production processes
-- Cross-functional process improvement for operational teams
+---
 
-## Skills
-### Automation & AI
-Zapier • Make.com • n8n • AI Workflow Design • Claude / LLM Integrations • Process Automation
+## 🔗 Links
 
-### SaaS & Integration
-HubSpot • SaaS Configuration • API Mapping • JSON Data • Workflow Logic • Implementation Support
+- 🌐 [Personal Portfolio](https://naveensharma.net)
+- 💼 [LinkedIn Profile](https://linkedin.com/in/naveensharmatech)
+- 🏢 [Opility Business](https://opility.com)
+- 📧 [contact@naveensharma.net](mailto:contact.naveensharma@gmail.com)
 
-### QA & Validation
-UAT • Functional Testing • Regression Testing • Data Validation • Workflow QA
+---
 
-## Connect
-- LinkedIn: https://linkedin.com/in/naveensharmatech
-- Portfolio: https://naveensharma.net
-- GitHub: https://github.com/naveensharmatech
-- Email: contact@naveensharma.net
-- Opility: https://opility.com
-
-## Open to
-- AI automation engineer roles
-- workflow automation and no-code / low-code projects
-- SaaS implementation and onboarding roles
-- QA/UAT and implementation testing work
-- remote, hybrid, or contract engagements
-
-## Note
-This profile is intentionally focused on real, verified work and transparent project positioning. I keep active projects, portfolio work, and implementation assets clearly separated from experimental or learning repos.
+**Available for remote roles, consulting, and freelance projects! 🚀**
