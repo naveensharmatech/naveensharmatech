@@ -18,6 +18,30 @@ Based in Be’er Sheva, Israel. I combine SaaS implementation, technical operati
 
 I build with no-code tools and AI assistance, focusing on useful workflows, clear documentation, and checking how systems behave.
 
+
+
+[What I work on](#section-1) · [Featured projects](#section-2) · [Experience](#section-3) · [Education & completed learning](#section-4)
+
+### 🗺️ Visual overview
+
+A visual guide to the project and the documentation below.
+
+```mermaid
+flowchart LR
+  A["Naveen Sharma"] --> B["Main website"]
+  A --> C["Featured projects"]
+  A --> D["Experience and qualifications"]
+  classDef input fill:#DBEAFE,stroke:#2563EB,color:#172554
+  classDef process fill:#FFF0DB,stroke:#FF6B35,color:#431407
+  classDef output fill:#DCFCE7,stroke:#16A34A,color:#14532D
+  class A input
+  class B,C,D process
+```
+
+---
+
+<a id="section-1"></a>
+
 ## What I work on
 
 - Workflow automation, routing, and connected business tools
@@ -25,6 +49,8 @@ I build with no-code tools and AI assistance, focusing on useful workflows, clea
 - API integrations, webhooks, and document workflows
 - Functional testing, regression testing, and QA/UAT
 - AI-assisted websites, assistants, and data extraction projects
+
+<a id="section-2"></a>
 
 ## Featured projects
 
@@ -37,6 +63,8 @@ I build with no-code tools and AI assistance, focusing on useful workflows, clea
 
 My portfolio also includes a Django Blogging CMS academic project, QA test plans, and additional automation learning projects.
 
+<a id="section-3"></a>
+
 ## Experience
 
 - **Bolt Healthcare:** SaaS implementation, workflow configuration, document automation, and QA/UAT.
@@ -44,6 +72,8 @@ My portfolio also includes a Django Blogging CMS academic project, QA test plans
 - **Vishay Intertechnology:** Manufacturing process operations and quality control.
 
 [Explore experience and work demonstrations](https://naveensharma.net/#experience)
+
+<a id="section-4"></a>
 
 ## Education & completed learning
 
