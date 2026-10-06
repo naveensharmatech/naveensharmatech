@@ -1,4 +1,12 @@
-# Naveen Sharma
+# 👨‍💻 Naveen Sharma
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-naveensharma.net-2563EB?style=for-the-badge)](https://naveensharma.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naveen_Sharma-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/naveensharmatech/)
+[![Opility](https://img.shields.io/badge/Business-Opility-FF6B35?style=for-the-badge)](https://opility.com)
+
+</div>
 
 **AI Automation & Integration Engineer · SaaS Implementation Specialist · Workflow Automation**
 
