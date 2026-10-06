@@ -1,4 +1,8 @@
-#👨‍💻 Naveen Sharma
+<h1 align="center">Naveen Sharma</h1>
+
+<p align="center">
+  <strong>AI Automation &amp; Integration Engineer · SaaS Implementation Specialist · Workflow Automation</strong>
+</p>
 
 <div align="center">
 
@@ -6,11 +10,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Naveen_Sharma-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/naveensharmatech/)
 [![Opility](https://img.shields.io/badge/Business-Opility-FF6B35?style=for-the-badge)](https://opility.com)
 
-</div>
-
-**AI Automation & Integration Engineer · SaaS Implementation Specialist · Workflow Automation**
-
 [Portfolio](https://naveensharma.net) · [LinkedIn](https://www.linkedin.com/in/naveensharmatech/) · [Opility](https://opility.com)
+
+</div>
 
 Based in Be’er Sheva, Israel. I combine SaaS implementation, technical operations, and QA experience with hands-on projects in automation, AI assistants, integrations, and web data extraction.
 
