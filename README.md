@@ -1,70 +1,53 @@
-# 👨‍💻 Naveen Sharma
+# Naveen Sharma
 
-<div align="center">
+**AI Automation & Integration Engineer · SaaS Implementation Specialist · Workflow Automation**
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-naveensharma.net-2563eb?style=for-the-badge)](https://naveensharma.net)
-[![GitHub](https://img.shields.io/badge/🐙%20GitHub-naveensharmatech-181717?style=for-the-badge&logo=github)](https://github.com/naveensharmatech/Naveen-Sharma-Tech)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-naveensharmatech-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/naveensharmatech)
-[![Business](https://img.shields.io/badge/🏢%20Business-opility.com-FF6B35?style=for-the-badge)](https://opility.com)
+[Portfolio](https://naveensharma.net) · [LinkedIn](https://www.linkedin.com/in/naveensharmatech/) · [Opility](https://opility.com)
 
-**AI Automation Engineer | SaaS Specialist | Workflow Architect**
+Based in Be’er Sheva, Israel. I combine SaaS implementation, technical operations, and QA experience with hands-on projects in automation, AI assistants, integrations, and web data extraction.
 
-</div>
+I build with no-code tools and AI assistance, focusing on useful workflows, clear documentation, and checking how systems behave.
 
----
+## What I work on
 
-## 👋 Welcome!
+- Workflow automation, routing, and connected business tools
+- SaaS configuration, onboarding, forms, and data mapping
+- API integrations, webhooks, and document workflows
+- Functional testing, regression testing, and QA/UAT
+- AI-assisted websites, assistants, and data extraction projects
 
-I'm **Naveen Sharma**, an AI automation specialist with **7+ years** building enterprise workflows and SaaS implementations.
+## Featured projects
 
-### 📍 **Main Profile Hub:**
-👉 **[Naveen-Sharma-Tech](https://github.com/naveensharmatech/Naveen-Sharma-Tech)** — Full portfolio, projects, stats & certifications
+| Project | Purpose | Explore |
+| --- | --- | --- |
+| Customer Inquiry Router | Inquiry classification, CRM updates, and email routing | [Source & setup](https://github.com/naveensharmatech/customer-inquiry-router-zapier) |
+| B2B Lead Generator | Business discovery and public contact extraction | [Apify actor](https://apify.com/opility/b2b-leads-scraper-1-5-1k-leads-emails-phones) |
+| Shopify Store Lead Extractor | Public store contacts, catalog signals, and app detection | [Apify actor](https://apify.com/opility/shopify-store-lead-extractor-emails-catalog-size-apps) |
+| Professional Portfolio | React website with work demonstrations, certificates, and Ella, my personal assistant | [Website](https://naveensharma.net) · [Source](https://github.com/naveensharmatech/portfolio) |
 
----
+My portfolio also includes a Django Blogging CMS academic project, QA test plans, and additional automation learning projects.
 
-## 🚀 Quick Overview
+## Experience
 
-| Metric | Value |
-|--------|-------|
-| **Experience** | 7+ years |
-| **Workflows** | 500+ deployed |
-| **Agencies** | 25+ served |
-| **Uptime** | 99.5%+ |
-| **Certifications** | 13+ |
+- **Bolt Healthcare:** SaaS implementation, workflow configuration, document automation, and QA/UAT.
+- **Shivam Institute:** Franchise ownership, academy administration, technical operations, and lab coordination.
+- **Vishay Intertechnology:** Manufacturing process operations and quality control.
 
----
+[Explore experience and work demonstrations](https://naveensharma.net/#experience)
 
-## 💼 What I Do
+## Education & completed learning
 
-✅ **Workflow Automation** — Zapier, Make.com, n8n  
-✅ **SaaS Implementation** — Configuration, testing, training  
-✅ **Web Data Extraction** — Apify, Python, JavaScript  
-✅ **HubSpot CRM** — Setup, field mapping, automation  
-✅ **QA & Testing** — UAT, test planning, execution  
-✅ **AI Integration** — Claude API, agent architecture  
+- Bachelor of Computer Applications — Amity University Online
+- Zapier Academy — AI Agent, MCP, and Account Admin Essentials paths
+- QA Manual & Automation — Smart College and Great Learning Academy
+- JSM Fundamentals with AI and Jira Service Management course badges — Atlassian
+- AI Tools Workshop — be10x
+- Customer Relationship Management — HP LIFE
 
----
+[View qualifications and certificate evidence](https://naveensharma.net/#qualifications)
 
-## 🔗 Connect
+## Connect
 
-| Link | Purpose |
-|------|----------|
-| 🌐 [naveensharma.net](https://naveensharma.net) | Live portfolio |
-| 💼 [LinkedIn](https://linkedin.com/in/naveensharmatech) | Professional profile |
-| 📊 [Naveen-Sharma-Tech](https://github.com/naveensharmatech/Naveen-Sharma-Tech) | **Full GitHub hub** |
-| 🏢 [opility.com](https://opility.com) | Business services |
-| 📧 [contact@naveensharma.net](mailto:contact.naveensharma@gmail.com) | Email |
+Open to remote roles that can hire in Israel, suitable local hybrid roles, B2B contracts, and freelance projects.
 
----
-
-<div align="center">
-
-### 🎯 Open to:
-- ✅ Full-time remote/hybrid roles
-- ✅ SaaS automation consulting  
-- ✅ Freelance projects
-- ✅ B2B partnerships
-
-**[👉 View Full Profile Hub](https://github.com/naveensharmatech/Naveen-Sharma-Tech)**
-
-</div>
+[Contact me](https://naveensharma.net/#contact) · [Business enquiries through Opility](https://opility.com)
