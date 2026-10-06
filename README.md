@@ -1,4 +1,4 @@
-                                                                   # 👨‍💻 Naveen Sharma
+                                                              👨‍💻 Naveen Sharma
 
 <div align="center">
 
