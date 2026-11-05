@@ -1,3 +1,5 @@
+[![Naveen Sharma — practical AI solutions](docs/assets/portfolio-banner.svg)](https://naveensharma.net/)
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/naveensharmatech/portfolio/main/public/profile-canva.png" alt="Naveen Sharma" width="110" />
@@ -16,7 +18,7 @@
 
 </div>
 
-## Ideas. Systems. Possibilities.
+## 👋 Ideas. Systems. Possibilities.
 
 I build practical no-code workflows, AI assistants, chatbots, AI-assisted websites and small applications. My focus is understanding a process, connecting the right systems, mapping data and checking that the result works.
 
@@ -24,7 +26,7 @@ Technology has always made me curious. I managed a computer-training franchise a
 
 I contribute requirements, workflow logic, configuration, design decisions, troubleshooting and validation. AI tools help me write and refine code.
 
-## My current focus
+## 🎯 My current focus
 
 | Focus | What I work on |
 | --- | --- |
@@ -33,7 +35,9 @@ I contribute requirements, workflow logic, configuration, design decisions, trou
 | AI-assisted apps & websites | Turning requirements into interfaces and small applications, with AI support |
 | Implementation & validation | Configuring systems, testing branches and mappings, troubleshooting and documenting handoffs |
 
-## Projects you can inspect
+![Animated workflow: input, AI logic, routing and human review](docs/assets/workflow-motion.gif)
+
+## 🧩 Projects you can inspect
 
 | Explore | What you’ll find | Status |
 | --- | --- | --- |
@@ -46,7 +50,13 @@ I contribute requirements, workflow logic, configuration, design decisions, trou
 
 The site also documents B2B and Shopify extraction projects, academic work and QA learning materials. Workflow-reference graphics are learning references, not claims that I built or deployed those workflows.
 
-## The stack behind the work
+## ✨ Explore the current portfolio
+
+[![Naveen connecting inquiry, AI processing and a CRM](https://raw.githubusercontent.com/naveensharmatech/portfolio/main/public/images/naveen-ai-builder.jpeg)](https://naveensharma.net/)
+
+The live portfolio brings together projects, working sample-data demonstrations, qualifications, my story and Ella. Its green design includes dimensional hover motion, icon navigation, readable text and reduced-motion support.
+
+## 🛠️ The stack behind the work
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/naveensharmatech/portfolio/main/public/tool-logos/zapier.svg" alt="Zapier" title="Zapier" width="38" height="38" />
@@ -72,7 +82,7 @@ The site also documents B2B and Shopify extraction projects, academic work and Q
 
 These tools reflect a mix of project use and ongoing learning. Code-based builds are AI-assisted; tool logos do not imply expert-level proficiency.
 
-## Grounded in delivery
+## 💼 Grounded in delivery
 
 **Bolt Healthcare · SaaS Implementation · Aug 2022–May 2026**  
 Configured digital intake forms, conditional logic, JSON/data mappings, generated documents and eSignature routes. Validated workflows and outputs and followed up on issues through Basecamp.
@@ -85,7 +95,7 @@ Worked with manufacturing equipment, process procedures and quality checks.
 
 [Explore my experience and demonstrations](https://naveensharma.net/#experience)
 
-## Learning through practice
+## 🎓 Learning through practice
 
 **Bachelor of Computer Applications**
 
@@ -93,7 +103,7 @@ Worked with manufacturing equipment, process procedures and quality checks.
 
 I’m developing further skills through Make and n8n learning, AI platforms, CRM tools and API testing. Completed learning and work in progress are distinguished on my [qualifications page](https://naveensharma.net/#qualifications).
 
-## Opility — Build • Automate • Grow
+## 🌱 Opility — Build • Automate • Grow
 
 I’m developing [Opility](https://opility.com/), my venture for practical AI, automation and digital tools.
 
@@ -101,7 +111,7 @@ I’m developing [Opility](https://opility.com/), my venture for practical AI, a
 | --- | --- | --- | --- |
 | Assistants, agents and workflows | Websites, apps and integrations | Workflow and website validation | Templates, guides and creative assets |
 
-## Let’s build something useful
+## 📬 Let’s build something useful
 
 Based in Be’er Sheva, Israel. **Hindi: native · English: professional · Hebrew: conversational.**
 
@@ -110,3 +120,5 @@ Open to AI automation, integration, SaaS implementation and technical onboarding
 **[Visit my portfolio](https://naveensharma.net/) · [Connect on LinkedIn](https://www.linkedin.com/in/naveensharmatech/) · [Contact me](https://naveensharma.net/#contact)**
 
 <sub>This profile follows the current direction of naveensharma.net. Project descriptions distinguish practical builds, references and learning work; no client counts, income or performance claims are implied.</sub>
+
+<sub>Repository-hosted banner and animated workflow illustration. GitHub displays image animation; interactive motion runs on the linked website. Workflows, personal builds and learning are labelled by their actual status.</sub>
